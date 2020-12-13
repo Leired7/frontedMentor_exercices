@@ -1,0 +1,19 @@
+{
+  "name": "frontedmentor",
+  "version": "1.0.0",
+  "description": "Exercices of Fronted Mentor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leired7/frontedMentor_exercices.git"
+  },
+  "author": "Leired7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leired7/frontedMentor_exercices/issues"
+  },
+  "homepage": "https://github.com/Leired7/frontedMentor_exercices#readme"
+}
